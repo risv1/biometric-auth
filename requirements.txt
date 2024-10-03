@@ -1,5 +1,4 @@
 torch
-PyQt5
 fastapi
 uvicorn
 pyaudio
